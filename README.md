@@ -1,5 +1,5 @@
 # run2apps
-Program that runs two apps.
+Program that runs two apps. Was used for Discord RPC for applications that don't have it.
 
 How to use:
 1) Put all files to the root of the needed folder;
